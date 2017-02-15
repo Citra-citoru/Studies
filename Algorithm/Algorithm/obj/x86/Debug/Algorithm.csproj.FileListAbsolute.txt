@@ -1,0 +1,4 @@
+C:\git\Studies\Algorithm\Algorithm\bin\Debug\Algorithm.exe
+C:\git\Studies\Algorithm\Algorithm\bin\Debug\Algorithm.pdb
+C:\git\Studies\Algorithm\Algorithm\obj\x86\Debug\Algorithm.exe
+C:\git\Studies\Algorithm\Algorithm\obj\x86\Debug\Algorithm.pdb
